@@ -1,3 +1,13 @@
+# make lambda deploy with cdk
+
+## Step1: first create folder
+
+## Step2: generate cdk init --language=typescript
+
+## Step3: cp our linebot into assets/fnbot
+
+## Step4: create relative stack and interface 
+
 # Useful commands
 
  * `npm run build`   compile typescript to js
